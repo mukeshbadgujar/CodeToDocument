@@ -15,7 +15,7 @@ No API key is required to use this project. You can simply clone the repository 
 ## you can use sample : SampleCodeFIle folder to test the project.
 
 # Try Out on Streamlit
-## [Open Application in Streamlit](hhttps://codetodocument.streamlit.app/)
+## [Open Application in Streamlit](https://codetodocument.streamlit.app/)
 
 # Installation
 

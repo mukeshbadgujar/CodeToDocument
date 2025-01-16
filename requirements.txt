@@ -4,3 +4,4 @@ python-docx
 Pillow
 transformers
 huggingface_hub
+torch

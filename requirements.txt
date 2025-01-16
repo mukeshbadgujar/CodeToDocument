@@ -2,3 +2,5 @@ streamlit
 graphviz
 python-docx
 Pillow
+transformers
+huggingface_hub

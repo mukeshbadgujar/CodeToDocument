@@ -1,0 +1,4 @@
+streamlit
+graphviz
+python-docx
+Pillow
